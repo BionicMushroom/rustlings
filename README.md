@@ -4,6 +4,9 @@
 
 </div>
 
+> [!NOTE]
+> This is my (BionicMushroom's) fork of [rustlings](https://github.com/rust-lang/rustlings). It contains my solutions to the provided exercises. Before you look at the solutions, have a go at solving the exercises by yourself!
+
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
 
 Alternatively, for a first-time Rust learner, there are several other resources:
